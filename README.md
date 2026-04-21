@@ -1,4 +1,4 @@
-# AN AI Powered JLPT assistent on mid- range phones (ANDROID ) // AND EXPEREMENTAL PEOJECT
+# AN AI Powered JLPT assistent on mid- range phones (ANDROID ) // AN EXPEREMENTAL PEOJECT ( one going) 
 **Fine-tuning SLMs for N1-N5  Accuracy on Mid-Range Android**
 -----------------------------------------------------------------------------------------------------
 ## 🎯 The Problem
@@ -82,4 +82,4 @@ insta : cheeze_wizard
 
 feel free to reach me out for feedback and suggetions byee
 
-last modified : 19/04/26
+last modified : 21/04/26
