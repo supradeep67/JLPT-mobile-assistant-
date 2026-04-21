@@ -9,7 +9,6 @@ noov=  (input ( " please input what do you add it !  : "))
 with open(file_to_correct, 'r', encoding="utf-8") as f: 
     original_data = json.load(f)
 
-# 2. Create a NEW list for the reordered items
 reordered_list = []
 
 # 3. Process the data
@@ -17,7 +16,7 @@ for item in original_data:
     ordered_item = {
         "title": item.get("title"),
         "jlpt_level": noov,
-             # Maps N1 key to jlpt_level
+        
         "short_explanation": item.get("short_explanation"),
         "long_explanation": item.get("long_explanation"),
         "formation": item.get("formation"),
@@ -25,7 +24,7 @@ for item in original_data:
     }
     reordered_list.append(ordered_item)
 
-# 4. Save the file ONCE (outside the loop)
+# 4. Save the file !!!!
 correct_data = "newvocabn5.0.json"
 with open(correct_data, "w", encoding="utf-8") as d:
     json.dump(reordered_list, d, indent=2, ensure_ascii=False)
