@@ -66,7 +66,7 @@ MODEL : FROM  HUGGING FACE
 *   **Schema Logic:** Fixed a `TypeError` by ensuring `list` indices are not treated as `dictionary` keys during the mapping process.
 
 ## ⚖️ License
-Distributed under the MIT License. See `LICENSE` for more information.
+ALL RIGHTS RESERVED See `LICENSE` for more information.
 
 
 
