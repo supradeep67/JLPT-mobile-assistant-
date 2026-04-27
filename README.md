@@ -55,6 +55,7 @@ MODEL : FROM  HUGGING FACE
 - [ ] JSON to JSONL conversion script.
 - [ ] QLoRA Fine-tuning on Kaggle/Colab.
 - [ ] Quantization for Android deployment.
+- [ ] APP DEVLOPMENT 
          Progress (50%) 
 
 ## 📂 Scripts Included
@@ -64,6 +65,22 @@ MODEL : FROM  HUGGING FACE
 *   **JSON HANDELING:** Learned how to format a json or edit an json to model Frindly json file 
 *   **Path Handling:** Solved `OSError [Errno 22]` by implementing `.strip('"')` to handle Windows "Copy as Path" artifacts.
 *   **Schema Logic:** Fixed a `TypeError` by ensuring `list` indices are not treated as `dictionary` keys during the mapping process.
+
+
+##　APP  FUNCATIONS  
+*MODERN UI 
+* CHAT HISTORY
+* SETTING LOG
+* COSTIMIZBLE UI
+* STILL NEEDS TO  COMEING
+*   WORKING ON TH UI 
+
+
+
+
+
+
+
 
 ## ⚖️ License
 ALL RIGHTS RESERVED See `LICENSE` for more information.
