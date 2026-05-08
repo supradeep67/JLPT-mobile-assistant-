@@ -1,5 +1,5 @@
-# AN AI Powered JLPT assistent on mid- range phones (ANDROID ) // AN EXPEREMENTAL PEOJECT ( one going) 
-**Fine-tuning SLMs for N1-N5  Accuracy on Mid-Range Android**
+# AN AI Powered JLPT assistent on mid- range phones (ANDROID ) // AN EXPEREMENTAL PEOJECT (ongoing) 
+**Fine-tuning SLMs for N5-N1  Accuracy on Mid-Range Android**
 -----------------------------------------------------------------------------------------------------
 ## 🎯 The Problem
 I am a Self  Japanese laerner and So For That I Was Alaways Needed a Someone That can help to Pratice 24/7 And So I Was Useing AI to Boost My Learning and Found That 
