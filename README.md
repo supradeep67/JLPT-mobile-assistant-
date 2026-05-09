@@ -55,8 +55,8 @@ MODEL : FROM  HUGGING FACE
 - [ ] JSON to JSONL conversion script.
 - [ ] QLoRA Fine-tuning on Kaggle/Colab.
 - [ ] Quantization for Android deployment.
-- [ ] APP DEVLOPMENT 
-         Progress (50%) 
+- [x] APP DEVLOPMENT 
+         Progress (100%) 
 
 ## 📂 Scripts Included
 `data cleaning.py`: Standardizes raw JSON input, fixes formatting errors, and ensures `UTF-8` compatibility.
@@ -92,11 +92,11 @@ ALL RIGHTS RESERVED See `LICENSE` for more information.
 I’m a 16-year-old student builder with a deep-rooted fascination for Japanese engineering and linguistics. Currently, I’m experimenting with the Rakuten 1.5B model to explore how small language models can perform on mobile devices.
 When I’m not staring at a terminal, I’m usually deep-diving into Japanese history or practicing my Kanji (and realizing how much I still have to learn!). I believe the best tech is built with a mix of modern innovation and traditional Kodawari 　自己紹介を読んでくださって ありがとう　。. 🏔️💻
 ## connect with me 
-email : supradeepsingha06@outlook.com
-gmail : supradeep176@gmail.com 
+## email : supradeepsingha06@outlook.com
+## gmail : supradeep176@gmail.com 
 ## my social accounts 
-insta : cheeze_wizard
+## insta : cheeze_wizard
 
 feel free to reach me out for feedback and suggetions byee
 
-last modified : 21/04/26
+ ## last modified : 09/05/26
