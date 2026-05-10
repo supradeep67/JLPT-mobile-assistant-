@@ -4,6 +4,7 @@ Welcome to **RakuGEN** — your high‑performance AI assistant that runs entire
 No cloud, no tracking, just secure local intelligence.  
 
 ⚠️ **Note**: RakuGEN is still under active development. Some features may be incomplete, and occasional bugs are expected.  
+   and your device can be heat a bit  besed on your phones specs 
 
 ---
 
