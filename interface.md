@@ -1,3 +1,4 @@
+
 ## 📸 App Interface ##
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -26,10 +27,11 @@
     <img src="https://github.com/user-attachments/assets/cc097897-aa7c-4b71-832b-793090a24751" alt="Extra UI" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"/>
     <p>✨History</p>
   </div>
-
+  <div style="text-align: center;">
+<img src="https://github.com/user-attachments/assets/61ff34bd-97a6-4da8-b943-3f0923f2330f" alt="Extra UI" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"/> 
+    <P> System Info </P>
+  </div>
   <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/9b6562ce-2fc8-40fb-9a3b-fcf1e876efdb" alt="UI Work in Progress" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"/>
-    <p></p>
+    <p> Setting 3 </p>
   </div>
-
-</div>
