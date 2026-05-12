@@ -80,10 +80,7 @@ Apache 2.0 (RakutenAI) + custom scripts. See `LICENSE`.
 
 ---
 
-## ABOUT ME 
- 🐥こんにちは!
-I’m a 16-year-old student builder with a deep-rooted fascination for Japanese engineering and linguistics. Currently, I’m experimenting with the Rakuten 1.5B model to explore how small language models can perform on mobile devices.
-When I’m not staring at a terminal, I’m usually deep-diving into Japanese history or practicing my Kanji (and realizing how much I still have to learn!). I believe the best tech is built with a mix of modern innovation and traditional Kodawari 　自己紹介を読んでくださって ありがとう　。. 🏔️💻  
+ 
 
 📧 Email: supradeepsingha06@outlook.com  
 📧 Gmail: supradeep176@gmail.com  
